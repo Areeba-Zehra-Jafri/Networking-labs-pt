@@ -129,3 +129,5 @@ You can see a small envelope on the top in the lower bar click on it .
 Now click on any PC whom you want that it send a data packet after that click on the one that will recieve that packet .
 
 If the logs in the bottom right show **successful** then congratulations! your network is now working.
+
+![8](images/8.png)
